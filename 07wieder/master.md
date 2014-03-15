@@ -108,7 +108,7 @@ Wahrnehmung von weiblichem Schreiben befasst, beobachtet seit mehreren
 Jahren die Literaturkritiken, die in verschiedenen renommierten
 Publikationen erscheinen. In Betracht gezogen wird sowohl das Geschlecht
 der Autorinnen und Autoren der rezensierten Bücher als auch das der
-Rezensentinnen und Rezensenten. Das Ergebnis, das die**Organisation auf
+Rezensentinnen und Rezensenten. Das Ergebnis, das die Organisation auf
 ihrer Webseite veröffentlicht, ist eindeutig. 
 
 In allen untersuchten Publikationen überwiegen Rezensionen, die von

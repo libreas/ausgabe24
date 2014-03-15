@@ -55,10 +55,10 @@ breaklinks= true]{hyperref}
 
 \usepackage{fancyhdr}
 \fancyhf{}
-
 \pagestyle{fancyplain}
-
 \fancyhead[R]{\thepage}
+
+%meta
 %meta
 
 \fancyhead[L]{R. Mumenthaler \\ %author
@@ -72,22 +72,14 @@ LIBREAS. Library Ideas, 24 (2014). % journal, issue, volume.
 \author{Rudolf Mumenthaler} %author
 
 \date{}
-
 \begin{document}
 
 \maketitle
 \thispagestyle{fancyplain} 
 
+%abstracts
 
-
-\begin{abstract}
-\small
-Der Horizon Report Higher Education dient auch für Hochschulbibliotheken als wichtige Referenz zur Bewertung aktueller Trends und künftiger Entwicklungen. Der Autor stellt die dem Report zugrunde liegende Methode vor, beleuchtet diese kritisch und reflektiert die Aussagekraft der Prognosen. Die Stärken des Horizon Report liegen in der breiten Abstützung, der Offenheit des Verfahrens und der Publikation sowie der Ausarbeitung der von Expertinnen und Experten ausgewählten Themen. Gewisse Schwächen sieht der Autor in der Abhängigkeit von anderen Trendstudien sowie beim Auswahlverfahren der Trendthemen.
-\end{abstract}
-
-\begin{center}\rule{3in}{0.4pt}\end{center}
-
-
+%body
 Als ich noch Verantwortlicher für Innovation an der ETH-Bibliothek
 Zürich war, hatte ich den Termin im Februar für das Erscheinen des
 Horizon Reports jeweils dick in der Agenda angestrichen. Die Aussagen zu
@@ -97,8 +89,8 @@ Wechsel an die Fachhochschule HTW Chur 2012 veränderte sich auch mein
 Interesse: nun war ich mehr am Entstehen als an den Ergebnissen eines
 solchen Reports interessiert und ich beschloss, mich für das Advisory
 Board zu melden. Ein entsprechender Aufruf findet sich auf der Homepage
-des New Media Consortium, dem Herausgeber des Horizon Reports (
-\url{http://www.nmc.org/}). Ich wurde in das Gremium aufgenommen und
+des New Media Consortium, dem Herausgeber des Horizon Reports
+(\url{http://www.nmc.org/}). Ich wurde in das Gremium aufgenommen und
 habe in dieser Funktion an den beiden Horizon Reports Higher Education
 2013 und 2014 mitgewirkt. Den dabei gewonnenen Blick hinter die Kulissen
 des renommierten Trendberichts möchte ich im Folgenden für eine
@@ -136,7 +128,7 @@ auch durch eigene Themen ergänzt werden.
 \includegraphics{./img/01-Horizon_Wiki.jpg}
 \caption{Das Wiki des Horizon Report mit den Phasen und den
 Forschungsfragen (Quelle: \url{http://horizon.wiki.nmc.org/home},
-besucht 30.01.2014}
+besucht 30.01.2014)}
 \end{figure}
 
 Folgende vier Forschungsfragen werden in der ersten Phase im Wiki
@@ -382,7 +374,7 @@ Bereich. ~
 \centering
 \includegraphics{./img/04-hype-cycle-2013.jpg}
 \caption{Gartner Hype Cycle for Emerging Technologies, 2013
-(\url{http://www.gartner.com/newsroom/id/2575515},besucht am
+(\url{http://www.gartner.com/newsroom/id/2575515}, besucht am
 19.12.2013)}
 \end{figure}
 
@@ -460,5 +452,7 @@ der ETH-Bibliothek Zürich zunächst als Leiter der Spezialsammlungen, ab
 2009 als Leiter des Bereichs Innovation und Marketing tätig gewesen.
 2013 und 2014 hat er als Experte im Advisory Board des Horizon Report
 mitgewirkt.
+
+%autor
 
 \end{document}

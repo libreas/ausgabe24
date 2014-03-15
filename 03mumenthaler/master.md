@@ -7,8 +7,7 @@ Wechsel an die Fachhochschule HTW Chur 2012 veränderte sich auch mein
 Interesse: nun war ich mehr am Entstehen als an den Ergebnissen eines
 solchen Reports interessiert und ich beschloss, mich für das Advisory
 Board zu melden. Ein entsprechender Aufruf findet sich auf der Homepage
-des New Media Consortium, dem Herausgeber des Horizon Reports (
-[http://www.nmc.org/](http://www.nmc.org/)). Ich wurde in das Gremium
+des New Media Consortium, dem Herausgeber des Horizon Reports ([http://www.nmc.org/](http://www.nmc.org/)). Ich wurde in das Gremium
 aufgenommen und habe in dieser Funktion an den beiden Horizon Reports
 Higher Education 2013 und 2014 mitgewirkt. Den dabei gewonnenen Blick
 hinter die Kulissen des renommierten Trendberichts möchte ich im
@@ -39,7 +38,7 @@ möglichen Schlüsseltechnologien im Wiki bereit. Diese kann und soll
 durch die Expertinnen und Experten nicht nur kommentiert, sondern auch
 durch eigene Themen ergänzt werden.
 
-![Das Wiki des Horizon Report mit den Phasen und den Forschungsfragen (Quelle: <http://horizon.wiki.nmc.org/home>, besucht 30.01.2014](./img/01-Horizon_Wiki.jpg)
+![Das Wiki des Horizon Report mit den Phasen und den Forschungsfragen (Quelle: <http://horizon.wiki.nmc.org/home>, besucht 30.01.2014)](./img/01-Horizon_Wiki.jpg)
 
 Folgende vier Forschungsfragen werden in der ersten Phase im Wiki
 diskutiert, kommentiert und gewichtet (hier in einer eigenen Übersetzung
@@ -257,7 +256,7 @@ durchaus vergleichbar – ist ebenfalls auf dem Hype ziemlich weit oben
 (5-10 Jahre). 3D Printing befindet sich zudem im Geschäftsbereich schon
 fast im produktiven Bereich.  
 
-![Gartner Hype Cycle for Emerging Technologies, 2013 ([http://www.gartner.com/newsroom/id/2575515](http://www.gartner.com/newsroom/id/2575515),besucht am 19.12.2013)](./img/04-hype-cycle-2013.jpg)
+![Gartner Hype Cycle for Emerging Technologies, 2013 ([http://www.gartner.com/newsroom/id/2575515](http://www.gartner.com/newsroom/id/2575515), besucht am 19.12.2013)](./img/04-hype-cycle-2013.jpg)
 
 Im Gartner Hype Cycle für 2013 finden sich zudem auch einige Themen, die
 in früheren Horizon Reports als wichtige Technologien genannt wurden –
